@@ -1,12 +1,16 @@
 [submodule "endpoint"]
 	path = endpoint
 	url = git@github.com:retrocompnet/endpoint.git
+	branch = main
 [submodule "infrastructure"]
 	path = infrastructure
 	url = git@github.com:retrocompnet/infrastructure.git
+	branch = main
 [submodule "librcn-api"]
 	path = librcn-api
 	url = git@github.com:retrocompnet/librcn-api.git
+	branch = main
 [submodule "website"]
 	path = website
 	url = git@github.com:retrocompnet/website.git
+	branch = main
