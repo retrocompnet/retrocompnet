@@ -14,3 +14,6 @@
 	path = website
 	url = git@github.com:retrocompnet/website.git
 	branch = main
+[submodule "rcn-os"]
+	path = rcn-os
+	url = https://github.com/retrocompnet/rcn-os
